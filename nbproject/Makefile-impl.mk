@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=EE3310_Final_Project.X
+PROJECTNAME=EE3310_Final_Project_S13.X
 
 # Active Configuration
 DEFAULTCONF=default
